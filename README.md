@@ -3,7 +3,7 @@
 
 | Dataset Name | Dataset Route        | Outcome Type   | Date (dd/mm/yy) | Raw Dataset    |
 | ------------ | -------------------- | -------------- |---------------- | -------------- | 
-| Bike Rides   | _bike_rides.ipynb_   | Regression     | 15/10/26        | [bike.csv]('https://raw.githubusercontent.com/gerberl/6G7V0015-2324/main/datasets/bike.csv')   |
+| Bike Rides   | _bike_rides.ipynb_   | Regression     | 15/10/26        | [bike.csv](https://raw.githubusercontent.com/gerberl/6G7V0015-2324/main/datasets/bike.csv)   |
 | Titanic      | _titanic.ipynb_      | Classification | 15/10/26        | [Download]()   |
 | House Prices | _house_prices.ipynb_ | Regression     | 14/10/26        | [Download]()   |
 
