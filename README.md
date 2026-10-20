@@ -5,8 +5,8 @@
 | ------------ | -------------------- | -------------- |---------------- | -------------- | 
 | Heart Rates  | _bpm_genders.ipynb_  | Statistical    | 15/10/26        | [runners...](https://raw.githubusercontent.com/seanmb/teaching/refs/heads/main/runners_rhr_simulated.csv)   |
 | Bike Rides   | _bike_rides.ipynb_   | Regression     | 15/10/26        | [bike.csv](https://raw.githubusercontent.com/gerberl/6G7V0015-2324/main/datasets/bike.csv)   |
-| Titanic      | _titanic.ipynb_      | Classification | 15/10/26        | [Download]()   |
-| House Prices | _house_prices.ipynb_ | Regression     | 14/10/26        | [Download]()   |
+| Titanic      | _titanic.ipynb_      | Classification | 15/10/26        | [No Download]()   |
+| House Prices | _house_prices.ipynb_ | Regression     | 14/10/26        | [No Download]()   |
 
 <p>This list will hopefully expand soon as more and more datasets are added over time from the Machine Learning & Data Engineering and Analysis modules.</p>
 
